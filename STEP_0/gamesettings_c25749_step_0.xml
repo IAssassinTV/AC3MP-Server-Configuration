@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--ACR_ArchTrp-->
+	<Field ObjectID="257955759" PropertyName="Accomplishments">
+		<ArraySlot index="15" action="insert" ClassName="Accomplishment" StoreIDTag="<1>">
+			<SubField PropertyName="MonitorWatchType" value="2"/>
+			<SubField PropertyName="Monitor" ClassName="AccomplishmentBracketMonitor">
+				<SubField PropertyName="InMonitor" ClassName="AccomplishmentEventMonitor">
+					<SubField PropertyName="AssassinAccomplishmentEventType" value="431"/>
+				</SubField>
+				<SubField PropertyName="OutMonitor" ClassName="AccomplishmentBracketMonitor">
+					<SubField PropertyName="InMonitor" ClassName="ExtendedAccomplishmentEventMonitor">
+						<SubField PropertyName="AccEventTemplate" ClassName="AssassinAccomplishmentConflictEvent">
+								<SubField PropertyName="ConflictType" value="18"/>
+						</SubField>
+					</SubField>
+					<SubField PropertyName="OutMonitor" ClassName="AccomplishmentLimitedCounterMonitor">
+						<SubField PropertyName="OtherMonitor" ClassName="ExtendedAccomplishmentEventMonitor">
+								<SubField PropertyName="AccEventTemplate" ClassName="AssassinAccomplishmentConflictEvent">
+									<SubField PropertyName="ConflictType" value="18"/>
+								</SubField>
+						</SubField>
+						<SubField PropertyName="DesiredCount" value="2"/>
+					</SubField>
+					<SubField PropertyName="CancelMonitor" ClassName="ExtendedAccomplishmentEventMonitor">
+						<SubField PropertyName="AccEventTemplate" ClassName="AssassinAccomplishmentConflictEvent">
+								<SubField PropertyName="ConflictType" value="17"/>
+								<SubField PropertyName="LocalPlayerVictim" value="true"/>
+						</SubField>
+					</SubField>
+				</SubField>
+				<SubField PropertyName="CancelMonitor" ClassName="AccomplishmentEventMonitor">
+					<SubField PropertyName="AssassinAccomplishmentEventType" value="124"/>
+				</SubField>
+		  </SubField>
+		</ArraySlot>
+	</Field>
+	<Field ObjectID="257955759" PropertyName="AccomplishmentOutputs">
+		<ArraySlot index="0">
+			<SubField PropertyName="Mapping">
+				<SubField PropertyName="Mappings">
+					<ArraySlot index="5">
+						<SubField PropertyName="AchievementID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="6">
+						<SubField PropertyName="AchievementID" value="52"/>
+					</ArraySlot>
+					<ArraySlot index="7">
+						<SubField PropertyName="AchievementID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="8">
+						<SubField PropertyName="AchievementID" value="53"/>
+						<SubField PropertyName="Accomplishment" value="<1>"/>
+					</ArraySlot>
+					<ArraySlot index="9">
+						<SubField PropertyName="AchievementID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="10">
+						<SubField PropertyName="AchievementID" value="51"/>
+					</ArraySlot>
+					<ArraySlot index="11">
+						<SubField PropertyName="AchievementID" value="54"/>
+					</ArraySlot>
+					<ArraySlot index="12">
+						<SubField PropertyName="AchievementID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="13">
+						<SubField PropertyName="AchievementID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="14">
+						<SubField PropertyName="AchievementID" value="0"/>
+					</ArraySlot>
+				</SubField>
+			</SubField>
+		</ArraySlot>
+		<ArraySlot index="1">
+			<SubField PropertyName="Mapping">
+				<SubField PropertyName="Mappings">
+					<ArraySlot index="5">
+						<SubField PropertyName="TrophyID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="6">
+						<SubField PropertyName="TrophyID" value="52"/>
+					</ArraySlot>
+					<ArraySlot index="7">
+						<SubField PropertyName="TrophyID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="8">
+						<SubField PropertyName="TrophyID" value="53"/>
+						<SubField PropertyName="Accomplishment" value="<1>"/>
+					</ArraySlot>
+					<ArraySlot index="9">
+						<SubField PropertyName="TrophyID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="10">
+						<SubField PropertyName="TrophyID" value="51"/>
+					</ArraySlot>
+					<ArraySlot index="11">
+						<SubField PropertyName="TrophyID" value="54"/>
+					</ArraySlot>
+					<ArraySlot index="12">
+						<SubField PropertyName="TrophyID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="13">
+						<SubField PropertyName="TrophyID" value="0"/>
+					</ArraySlot>
+					<ArraySlot index="14">
+						<SubField PropertyName="TrophyID" value="0"/>
+					</ArraySlot>
+				</SubField>
+			</SubField>
+		</ArraySlot>
+	</Field>
+<!--DarkCostumes-->
+	<Field ObjectID="347185612" PropertyName="UnlockableList">
+		<ArraySlot action="insert" index="65" value="619468630" />
+	</Field>
+	<Field ObjectID="347185611" PropertyName="UnlockableList">
+		<ArraySlot action="insert" index="65" value="619467035" />
+	</Field>
+<!--GlobalParameters-->
+	<Field ObjectID="2510664384" PropertyName="DLCMapIDs">
+		<ArraySlot index="0" value="3632686123" />
+		<ArraySlot index="1" value="1476191984" />
+		<ArraySlot index="2" value="1476192023" />
+		<ArraySlot index="3" value="2569229101" />
+		<ArraySlot index="4" value="1453016564" />
+		<ArraySlot index="5" value="1453016567" />
+		<ArraySlot index="6" value="2569229107" />
+		<ArraySlot index="7" value="1453016576" />
+		<ArraySlot index="8" value="1453016579" />
+		<ArraySlot index="11" action="remove" />
+		<ArraySlot index="10" action="remove" />
+		<ArraySlot index="9" action="remove" />
+	</Field>
+	<Field ObjectID="2510664384" PropertyName="DLCMasks">
+		<ArraySlot index="0" action="insert" value="1" />
+	</Field>
+<!--Maps-->
+	<Field ObjectID="2471158575" PropertyName="Items">
+		<ArraySlot index="67" action="insert" ClassID="614032972" value="1453016540">
+			<SubField PropertyName="MapReference" ClassID="2382761820" value="1453016564">
+				<SubField PropertyName="World" value="1700896283" />
+				<SubField PropertyName="TimeOfDay" value="0" />
+				<SubField PropertyName="IsWinter" value="False" />
+				<SubField PropertyName="TopViewImg" value="2970740628" />
+				<SubField PropertyName="PreviewImg" value="2970740628" />
+			</SubField>
+			<SubField PropertyName="NameString">
+				<SubField PropertyName="OasisLineID" value="372062" />
+			</SubField>
+			<SubField PropertyName="IsVisibleInBeta" value="False" />
+			<SubField PropertyName="IsInitiallyHidden" value="False" />
+			<SubField PropertyName="SalesEndDate" value="0" />
+			<SubField PropertyName="TokenSalesPrice" value="0" />
+			<SubField PropertyName="AbstergoSalesPrice" value="0" />
+			<SubField PropertyName="IsLocked" value="True" />
+			<SubField PropertyName="IsPersistent" value="True" />
+			<SubField PropertyName="IsUnlockPending" value="False" />
+			<SubField PropertyName="Index" value="2317" />
+			<SubField PropertyName="Price" value="0" />
+			<SubField PropertyName="TokenPrice" value="0" />
+		</ArraySlot>
+		<ArraySlot index="68" action="insert" ClassID="614032972" value="1453016541">
+			<SubField PropertyName="MapReference" ClassID="2382761820" value="1453016567">
+				<SubField PropertyName="World" value="1700896283" />
+				<SubField PropertyName="TimeOfDay" value="15" />
+				<SubField PropertyName="IsWinter" value="False" />
+				<SubField PropertyName="TopViewImg" value="2970740679" />
+				<SubField PropertyName="PreviewImg" value="2970740679" />
+			</SubField>
+			<SubField PropertyName="NameString">
+				<SubField PropertyName="OasisLineID" value="372062" />
+			</SubField>
+			<SubField PropertyName="IsVisibleInBeta" value="False" />
+			<SubField PropertyName="IsInitiallyHidden" value="False" />
+			<SubField PropertyName="SalesEndDate" value="0" />
+			<SubField PropertyName="TokenSalesPrice" value="0" />
+			<SubField PropertyName="AbstergoSalesPrice" value="0" />
+			<SubField PropertyName="IsLocked" value="True" />
+			<SubField PropertyName="IsPersistent" value="True" />
+			<SubField PropertyName="IsUnlockPending" value="False" />
+			<SubField PropertyName="Index" value="2318" />
+			<SubField PropertyName="Price" value="0" />
+			<SubField PropertyName="TokenPrice" value="0" />
+		</ArraySlot>
+		<ArraySlot index="69" action="insert" ClassID="614032972" value="1453016544">
+			<SubField PropertyName="MapReference" ClassID="2382761820" value="1453016576">
+				<SubField PropertyName="World" value="2259798357" />
+				<SubField PropertyName="TimeOfDay" value="0.1" />
+				<SubField PropertyName="IsWinter" value="False" />
+				<SubField PropertyName="TopViewImg" value="2970740475" />
+				<SubField PropertyName="PreviewImg" value="2970740475" />
+			</SubField>
+			<SubField PropertyName="NameString">
+				<SubField PropertyName="OasisLineID" value="372061" />
+			</SubField>
+			<SubField PropertyName="IsVisibleInBeta" value="False" />
+			<SubField PropertyName="IsInitiallyHidden" value="False" />
+			<SubField PropertyName="SalesEndDate" value="0" />
+			<SubField PropertyName="TokenSalesPrice" value="0" />
+			<SubField PropertyName="AbstergoSalesPrice" value="0" />
+			<SubField PropertyName="IsLocked" value="True" />
+			<SubField PropertyName="IsPersistent" value="True" />
+			<SubField PropertyName="IsUnlockPending" value="False" />
+			<SubField PropertyName="Index" value="2321" />
+			<SubField PropertyName="Price" value="0" />
+			<SubField PropertyName="TokenPrice" value="0" />
+		</ArraySlot>
+		<ArraySlot index="70" action="insert" ClassID="614032972" value="1453016545">
+			<SubField PropertyName="MapReference" ClassID="2382761820" value="1453016579">
+				<SubField PropertyName="World" value="2259798357" />
+				<SubField PropertyName="TimeOfDay" value="15" />
+				<SubField PropertyName="IsWinter" value="False" />
+				<SubField PropertyName="TopViewImg" value="2970740526" />
+				<SubField PropertyName="PreviewImg" value="2970740526" />
+			</SubField>
+			<SubField PropertyName="NameString">
+				<SubField PropertyName="OasisLineID" value="372061" />
+			</SubField>
+			<SubField PropertyName="IsVisibleInBeta" value="False" />
+			<SubField PropertyName="IsInitiallyHidden" value="False" />
+			<SubField PropertyName="SalesEndDate" value="0" />
+			<SubField PropertyName="TokenSalesPrice" value="0" />
+			<SubField PropertyName="AbstergoSalesPrice" value="0" />
+			<SubField PropertyName="IsLocked" value="True" />
+			<SubField PropertyName="IsPersistent" value="True" />
+			<SubField PropertyName="IsUnlockPending" value="False" />
+			<SubField PropertyName="Index" value="2322" />
+			<SubField PropertyName="Price" value="0" />
+			<SubField PropertyName="TokenPrice" value="0" />
+		</ArraySlot>
+	</Field>
+<!--XPBoost-->
+	<Field ObjectID="1141515315" PropertyName="Items">
+		<ArraySlot index="5" action="insert" ClassID="2672519613" value="1447979849">
+			<SubField PropertyName="Ratio" value="0.5" />
+			<SubField PropertyName="IsInitiallyHidden" value="False" />
+			<SubField PropertyName="Index" value="2323" />
+		</ArraySlot>
+		<ArraySlot index="6" action="insert" ClassID="2672519613" value="1447979850">
+			<SubField PropertyName="Ratio" value="1" />
+			<SubField PropertyName="IsInitiallyHidden" value="True" />
+			<SubField PropertyName="Index" value="2324" />
+		</ArraySlot>
+	</Field>
+	<Field ObjectID="2360114058" PropertyName="UnlockableList">
+		<ArraySlot index="65" action="insert" value="1447979849" />
+		<ArraySlot index="66" action="insert" value="1447979850" />
+	</Field>
+</root>
+ 
