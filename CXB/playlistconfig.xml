@@ -2,32 +2,42 @@
 <Playlists>
     <Playlist id="1" preference="5" engineName="Free For All" oasisId="335407" description="335460" shortDescription="374334" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
         <modes>
+            <mode id="1" />
             <mode id="9" />
             <mode id="4" />
             <mode id="6" />
         </modes>
         <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
     <Playlist id="2" preference="4" engineName="Team Objectives" oasisId="335408" description="335424" shortDescription="374335" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="2" sessionType="2" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
@@ -37,152 +47,36 @@
             <mode id="14" />
         </modes>
         <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
-        </maps>
-    </Playlist>
-    <Playlist id="4" preference="2" engineName="Beginner" oasisId="338630" description="338631" shortDescription="374336" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="1" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
-        <modes>
-            <mode id="1" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="425551433" />
-            <map id="3526959583" />
-            <map id="3513154569" />
-            <map id="3526959590" />
-            <map id="3632686121" />
-        </maps>
-    </Playlist>
-    <Playlist id="5" preference="0" engineName="Wolf Pack Open - Standard" oasisId="374296" description="342026" shortDescription="374332" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="3" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
-        <modes>
-            <mode id="2" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
-        </maps>
-    </Playlist>
-    <Playlist id="6" preference="0" engineName="Closed Wolf Pack - Standard" oasisId="374295" description="342027" shortDescription="374331" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
-        <modes>
-            <mode id="2" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
-        </maps>
-    </Playlist>
-    <Playlist id="12" preference="0" engineName="Closed Wolf Pack - Difficult" oasisId="374293" description="342027" shortDescription="374329" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="1" devPlaylist="false">
-        <modes>
-            <mode id="2" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
-        </maps>
-    </Playlist>
-    <Playlist id="13" preference="0" engineName="Closed Wolf Pack - Hardcore" oasisId="374294" description="342027" shortDescription="374330" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="2" devPlaylist="false">
-        <modes>
-            <mode id="2" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
     <Playlist id="8" preference="0" engineName="Private" oasisId="336435" description="337395" shortDescription="374333" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="0" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="true" difficulty="0" devPlaylist="false">
@@ -197,190 +91,184 @@
             <mode id="10" />
         </modes>
         <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
-    <Playlist id="9" preference="0" engineName="Public DLC" oasisId="335411" description="335463" shortDescription="374500" groupSize="4" hidden="false" sessionSize="8" dlcId="2" leaderboardId="0" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
-        <modes>
-            <mode id="4" />
-            <mode id="12" />
-            <mode id="1" />
-            <mode id="9" />
-            <mode id="6" />
-            <mode id="14" />
-            <mode id="10" />
-        </modes>
-        <maps>
-            <map id="3632686123" />
-            <map id="1476191984" />
-            <map id="1476192023" />
-            <map id="2569229101" />
-            <map id="1453016564" />
-            <map id="1453016567" />
-            <map id="2569229107" />
-            <map id="1453016576" />
-            <map id="1453016579" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3041665098" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="263022986" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="1473204467" />
-        </maps>
-    </Playlist>
-    <Playlist id="10" preference="0" engineName="Private DLC" oasisId="337394" description="337396" shortDescription="374333" groupSize="4" hidden="false" sessionSize="8" dlcId="2" leaderboardId="0" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="true" difficulty="0" devPlaylist="false">
-        <modes>
-            <mode id="11" />
-            <mode id="4" />
-            <mode id="12" />
-            <mode id="1" />
-            <mode id="9" />
-            <mode id="6" />
-            <mode id="14" />
-            <mode id="10" />
-        </modes>
-        <maps>
-            <map id="3632686123" />
-            <map id="1476191984" />
-            <map id="1476192023" />
-            <map id="2569229101" />
-            <map id="1453016564" />
-            <map id="1453016567" />
-            <map id="2569229107" />
-            <map id="1453016576" />
-            <map id="1453016579" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3041665098" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="263022986" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="1473204467" />
-        </maps>
-    </Playlist>
-    <Playlist id="14" preference="0" engineName="Open WP - Standard DLC" oasisId="375169" shortOasisId="374296" description="375187" shortDescription="375171" groupSize="4" hidden="false" sessionSize="4" dlcId="2" leaderboardId="1" statutFlag="0" sessionType="3" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <Playlist id="5" preference="0" engineName="Wolf Pack Open - Standard" oasisId="374296" description="342026" shortDescription="374332" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="3" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
         <modes>
             <mode id="2" />
         </modes>
         <maps>
-            <map id="3632686123" />
-            <map id="1476191984" />
-            <map id="1476192023" />
-            <map id="2569229101" />
-            <map id="1453016564" />
-            <map id="1453016567" />
-            <map id="2569229107" />
-            <map id="1453016576" />
-            <map id="1453016579" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3041665098" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="263022986" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="1473204467" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
-    <Playlist id="15" preference="0" engineName="Closed WP - Standard DLC" oasisId="375166" shortOasisId="374295" description="375188" shortDescription="375168" groupSize="4" hidden="false" sessionSize="4" dlcId="2" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <Playlist id="6" preference="0" engineName="Closed Wolf Pack - Standard" oasisId="374295" description="342027" shortDescription="374331" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
         <modes>
             <mode id="2" />
         </modes>
         <maps>
-            <map id="3632686123" />
-            <map id="1476191984" />
-            <map id="1476192023" />
-            <map id="2569229101" />
-            <map id="1453016564" />
-            <map id="1453016567" />
-            <map id="2569229107" />
-            <map id="1453016576" />
-            <map id="1453016579" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3041665098" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="263022986" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="1473204467" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
-    <Playlist id="16" preference="0" engineName="Closed WP - Difficult DLC" oasisId="375160" shortOasisId="374293" description="375188" shortDescription="375162" groupSize="4" hidden="false" sessionSize="4" dlcId="2" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="1" devPlaylist="false">
+    <Playlist id="12" preference="0" engineName="Closed Wolf Pack - Difficult" oasisId="374293" description="342027" shortDescription="374329" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="1" devPlaylist="false">
         <modes>
             <mode id="2" />
         </modes>
         <maps>
-            <map id="3632686123" />
-            <map id="1476191984" />
-            <map id="1476192023" />
-            <map id="2569229101" />
-            <map id="1453016564" />
-            <map id="1453016567" />
-            <map id="2569229107" />
-            <map id="1453016576" />
-            <map id="1453016579" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3041665098" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="263022986" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="1473204467" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
-    <Playlist id="17" preference="0" engineName="Closed WP - Hardcore DLC" oasisId="375163" shortOasisId="374294" description="375188" shortDescription="375165" groupSize="4" hidden="false" sessionSize="4" dlcId="2" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="2" devPlaylist="false">
+    <Playlist id="13" preference="0" engineName="Closed Wolf Pack - Hardcore" oasisId="374294" description="342027" shortDescription="374330" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="2" devPlaylist="false">
         <modes>
             <mode id="2" />
         </modes>
         <maps>
-            <map id="3632686123" />
-            <map id="1476191984" />
-            <map id="1476192023" />
-            <map id="2569229101" />
-            <map id="1453016564" />
-            <map id="1453016567" />
-            <map id="2569229107" />
-            <map id="1453016576" />
-            <map id="1453016579" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3041665098" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="263022986" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="1473204467" />
+            <map id="395011840"/>
+            <map id="3075695057"/>
+            <map id="425551432"/>
+            <map id="3640721034"/>
+            <map id="425551433"/>
+            <map id="3700469477"/>
+            <map id="3526959583"/>
+            <map id="263022993"/>
+            <map id="3513154569"/>
+            <map id="298049844"/>
+            <map id="3526959590"/>
+            <map id="1473204474"/>
+            <map id="3632686121"/>
+            <map id="1476192073"/>
+            <map id="3041665109"/>
+            <map id="3041665707"/>
+            <map id="3041665098"/>
+            <map id="263022986"/>
+            <map id="298049837"/>
+            <map id="1473204467"/>
+            <map id="1476192027"/>
+            <map id="3632686123"/>
+            <map id="1476191984"/>
+            <map id="1476192023"/>
+            <map id="2569229101"/>
+            <map id="1453016564"/>
+            <map id="1453016567"/>
+            <map id="2569229107"/>
+            <map id="1453016576"/>
+            <map id="1453016579"/>
         </maps>
     </Playlist>
     <Playlist id="11" preference="0" engineName="TUTOS_HIDDEN" oasisId="0" description="0" shortDescription="0" groupSize="1" hidden="true" sessionSize="1" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="true" difficulty="0" devPlaylist="false">
@@ -391,186 +279,6 @@
         </modes>
         <maps>
             <map id="395011840" />
-        </maps>
-    </Playlist>
-    <Playlist id="30" preference="0" engineName="EVENT - REVOLUTION" oasisId="373392" description="373393" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="101" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="10" />
-            <mode id="14" />
-            <mode id="12" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-        </maps>
-    </Playlist>
-    <Playlist id="31" preference="0" engineName="EVENT - REINFORCEMENT" oasisId="373413" description="373414" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="10" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192073" />
-        </maps>
-    </Playlist>
-    <Playlist id="32" preference="0" engineName="EVENT - DEADLY SHADOWS" oasisId="373434" description="373435" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="4" />
-            <mode id="9" />
-            <mode id="6" />
-        </modes>
-        <maps>
-            <map id="3041665109" />
-            <map id="3041665707" />
-            <map id="3041665098" />
-            <map id="263022986" />
-            <map id="298049837" />
-            <map id="1473204467" />
-            <map id="1476192027" />
-        </maps>
-    </Playlist>
-    <Playlist id="33" preference="0" engineName="EVENT - TREASON" oasisId="373424" description="373425" shortDescription="0" groupSize="4" hidden="true" sessionSize="4" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="2" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3041665109" />
-            <map id="3075695057" />
-            <map id="425551433" />
-            <map id="3041665098" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022986" />
-            <map id="263022993" />
-        </maps>
-    </Playlist>
-    <Playlist id="34" preference="0" engineName="EVENT - SYSTEM HACKED" oasisId="373444" description="373445" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="4" />
-            <mode id="6" />
-            <mode id="9" />
-            <mode id="10" />
-            <mode id="12" />
-            <mode id="14" />
-        </modes>
-        <maps>
-            <map id="3632686121" />
-            <map id="1476192027" />
-            <map id="1476192073" />
-        </maps>
-    </Playlist>
-    <Playlist id="35" preference="0" engineName="EVENT - TERRA INCOGNITA" oasisId="373454" description="373455" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="10" />
-            <mode id="12" />
-            <mode id="14" />
-        </modes>
-        <maps>
-            <map id="3526959590" />
-            <map id="1473204474" />
-            <map id="425551433" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022993" />
-        </maps>
-    </Playlist>
-    <Playlist id="36" preference="0" engineName="EVENT - AMBUSH!" oasisId="373465" description="373466" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="12" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3041665109" />
-            <map id="3075695057" />
-            <map id="425551432" />
-            <map id="3041665707" />
-            <map id="3640721034" />
-            <map id="425551433" />
-            <map id="3041665098" />
-            <map id="3700469477" />
-            <map id="3526959583" />
-            <map id="263022986" />
-            <map id="263022993" />
-            <map id="3513154569" />
-            <map id="298049837" />
-            <map id="298049844" />
-            <map id="3526959590" />
-            <map id="1473204467" />
-            <map id="1473204474" />
-            <map id="3632686121" />
-            <map id="1476192027" />
-            <map id="1476192073" />
-        </maps>
-    </Playlist>
-    <Playlist id="37" preference="0" engineName="EVENT - PATH TO INDEPENDANCE" oasisId="373475" description="373476" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="10" />
-            <mode id="12" />
-            <mode id="14" />
-        </modes>
-        <maps>
-            <map id="3075695057" />
-            <map id="3640721034" />
-            <map id="3700469477" />
-            <map id="263022993" />
-            <map id="298049844" />
-            <map id="1473204474" />
-            <map id="1476192073" />
-        </maps>
-    </Playlist>
-    <Playlist id="38" preference="0" engineName="EVENT - GANGS WAR" oasisId="373485" description="373486" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="4" />
-            <mode id="6" />
-            <mode id="9" />
-        </modes>
-        <maps>
-            <map id="395011840" />
-            <map id="3041665109" />
-            <map id="3513154569" />
-            <map id="298049837" />
-            <map id="425551432" />
-            <map id="3041665707" />
-        </maps>
-    </Playlist>
-    <Playlist id="39" preference="0" engineName="EVENT - PIRACY RAISING" oasisId="373505" description="373506" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
-        <modes>
-            <mode id="10" />
-            <mode id="12" />
-            <mode id="14" />
-        </modes>
-        <maps>
-            <map id="3041665707" />
-            <map id="3640721034" />
-            <map id="1473204467" />
-            <map id="1473204474" />
-            <map id="3041665098" />
-            <map id="3700469477" />
         </maps>
     </Playlist>
 </Playlists>
