@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Playlists>
-    <Playlist id="1" preference="5" engineName="Free For All" oasisId="335407" description="335460" shortDescription="374334" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <Playlist id="1" preference="0" engineName="Free For All" oasisId="335407" description="335460" shortDescription="374334" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
         <modes>
             <mode id="1" />
             <mode id="9" />
@@ -40,7 +40,7 @@
             <map id="1453016579"/>
         </maps>
     </Playlist>
-    <Playlist id="2" preference="4" engineName="Team Objectives" oasisId="335408" description="335424" shortDescription="374335" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="2" sessionType="2" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <Playlist id="2" preference="0" engineName="Team Objectives" oasisId="335408" description="335424" shortDescription="374335" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="2" sessionType="2" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
         <modes>
             <mode id="10" />
             <mode id="12" />
